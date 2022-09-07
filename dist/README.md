@@ -1,5 +1,5 @@
 
-  <h1>Interactive Readme Generator</h1>
+  <h1>Readme Generator</h1>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub License Badge">
 
   ## Table of Contents:
@@ -17,25 +17,25 @@
   
   
   ## Project Name:
-  Interactive Readme Generator
+  Readme Generator
 
   ## Project Description:
-  User can quickly and easily create a README file by using a command-line application 
+  This is a simple Readme Generator app that lets user easily and interactively generate a readme file by invoking “node index.js” in a command-line application. 
   
   ## Licenses: 
   This project is licensed under the MIT license.
 
   ## Dependencies Installation:
-  Enter "npm install" using command-line application.
+  npm install
 
   ## Run Tests:
-  To run a test enter "npm run test" using command-line application.
+  npm run test
 
   ## Usage:
-  User is free to browse my open to the public repo.
+  Please visit my open to the public repo
 
   ## Contribution:
-  User may contribute by reporingt errors or recommendations.
+  Feel free to contribute to my work by contacting me via my email. 
   
   ## Questions:
   If you have any questions you can email at: sitnitsky.s@gmail.com
